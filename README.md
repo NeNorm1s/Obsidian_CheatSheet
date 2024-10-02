@@ -3,5 +3,4 @@
 В шпаргалке затрагивается:
 <ul>
 	<li>Python</li>
-	<li>JavaScript</li>
 </ul>
