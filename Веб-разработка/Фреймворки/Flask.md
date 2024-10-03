@@ -36,7 +36,9 @@ from flask import Flask, render_template
 from flask_sqlalchemy import SQLAlchemy
 ```
 
-Настройка проекта:
+### Настройка проекта
+
+Инициализация веб-приложения:
 ```
 app = Flask(__name__)
 app.secret_key = b'секретный ключ'
